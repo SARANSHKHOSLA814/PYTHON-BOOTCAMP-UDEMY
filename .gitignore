@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints/
+
+# Jupyter Notebook Metadata
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Environments
+env/
+venv/
+ENV/
+.venv/
+
+# OS Generated
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs and databases
+*.log
+*.sqlite
